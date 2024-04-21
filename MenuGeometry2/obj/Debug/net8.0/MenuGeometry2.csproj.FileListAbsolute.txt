@@ -1,0 +1,14 @@
+C:\cs\CodeGymT3\MenuGeometry2\bin\Debug\net8.0\MenuGeometry2.exe
+C:\cs\CodeGymT3\MenuGeometry2\bin\Debug\net8.0\MenuGeometry2.deps.json
+C:\cs\CodeGymT3\MenuGeometry2\bin\Debug\net8.0\MenuGeometry2.runtimeconfig.json
+C:\cs\CodeGymT3\MenuGeometry2\bin\Debug\net8.0\MenuGeometry2.dll
+C:\cs\CodeGymT3\MenuGeometry2\bin\Debug\net8.0\MenuGeometry2.pdb
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.AssemblyInfoInputs.cache
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.AssemblyInfo.cs
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.dll
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\refint\MenuGeometry2.dll
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.pdb
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\MenuGeometry2.genruntimeconfig.cache
+C:\cs\CodeGymT3\MenuGeometry2\obj\Debug\net8.0\ref\MenuGeometry2.dll
